@@ -1,0 +1,14 @@
+ID: 112001  Name: Anushka   Type: Default   
+   
+ID: 112002  Name: Gayesh   Type: Student   School Name: Royal College   
+   
+ID: 112003  Name: Rathnayaka   Type: Over 60   Age: 78   
+   
+ID: 112005  Name: Bashitha   Type: Default   
+   
+ID: 201007  Name: Ashley Smith   Type: Over 60   Age: 67   
+   
+ID: 234567  Name: Nimna   Type: Over 60   Age: 67   
+   
+ID: 123345  Name: Kylie   Type: Student   School Name: British School   
+   
